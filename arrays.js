@@ -8,5 +8,5 @@ function addElementToBeginningOfArray(array, element) {
 function destructivelyAddElementToBeginningOfArray(array, element) {
   var chocolateBars = ["snickers", "hundred grand", "kitkat" , "skittles"]
   var foo = 1
-  return ["foo", + 1]
+  return ["foo", + '1']
 }
