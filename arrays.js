@@ -29,7 +29,6 @@ function accessElementInArray(array, index) {
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
   var chocolateBars = ["snickers", "hundred grand", "kitkat" , "skittles"]
-  shift(1)
-  console.log(destructivelyRemoveElementFromBeginningOfArray[ 2, 3 ])
+  chocolateBars.shift(1)
   return (2, 3)
 }
