@@ -33,4 +33,8 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
   return (2, 3)
 }
 
-function removeElementFromBeginningOfArray(array)
+function removeElementFromBeginningOfArray(array) {
+  var chocolateBars = ["snickers", "hundred grand", "kitkat" , "skittles"]
+  chocolateBars.slice(-1)
+  
+}
