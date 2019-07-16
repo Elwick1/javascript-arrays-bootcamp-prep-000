@@ -20,3 +20,9 @@ function destructivelyAddElementToEndOfArray(array, element) {
   var chocolateBars = ["snickers", "hundred grand", "kitkat" , "skittles"]
   return ('destructivelyAddElementToEndOfArray', [1, "foo"])
 }
+
+function accessElementInArray(array, index) {
+  var chocolateBars = ["snickers", "hundred grand", "kitkat" , "skittles"]
+  console.log(accessElementInArray[3])
+  return (3)
+}
