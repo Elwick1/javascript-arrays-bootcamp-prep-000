@@ -18,5 +18,5 @@ function addElementToEndOfArray(array, element) {
 
 function destructivelyAddElementToEndOfArray(array, element) {
   var chocolateBars = ["snickers", "hundred grand", "kitkat" , "skittles"]
-  return ('destructivelyAddElementToEndOfArray')
+  return ('destructivelyAddElementToEndOfArray', [1, "foo"])
 }
