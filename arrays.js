@@ -32,3 +32,5 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
   chocolateBars.shift(3)
   return (2, 3)
 }
+
+function removeElementFromBeginningOfArray(array)
