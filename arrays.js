@@ -10,3 +10,9 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   
   return ["foo", + 1]
 }
+
+function addElementToEndOfArray(array, element) {
+  var chocolateBars = ["snickers", "hundred grand", "kitkat" , "skittles"]
+  return ('addElementToEndOfArray', [1, "foo"])
+}
+
