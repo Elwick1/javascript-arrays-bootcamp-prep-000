@@ -29,7 +29,7 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
 }
 
 function removeElementFromBeginningOfArray(array) {
-  chocolateBars.slice(-1)
+  array.slice(-1)
   }
   
   function destructivelyRemoveElementFromEndOfArray(array) {
