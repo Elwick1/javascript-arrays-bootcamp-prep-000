@@ -21,7 +21,7 @@ function destructivelyAddElementToEndOfArray(array, element) {
   return ('destructivelyAddElementToEndOfArray', [1, "foo"])
 }
 
-function accesElementInArray(array, index) {
+function accessElementInArray(array, index) {
   var chocolateBars = ["snickers", "hundred grand", "kitkat" , "skittles"]
-  return ('accesElementInArray')
+  return ('accessElementInArray')
 }
