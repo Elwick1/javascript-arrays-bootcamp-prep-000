@@ -29,6 +29,6 @@ function accessElementInArray(array, index) {
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
   var chocolateBars = ["snickers", "hundred grand", "kitkat" , "skittles"]
-  chocolateBars.shift(1)
+  chocolateBars.shift(3)
   return (2, 3)
 }
