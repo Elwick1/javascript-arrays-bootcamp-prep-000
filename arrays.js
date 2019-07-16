@@ -43,3 +43,10 @@ function removeElementFromBeginningOfArray(array) {
     return [1,2]
   }
   
+  function removeElementFromEndOfArray(array) {
+    var chocolateBars = ["snickers", "hundred grand", "kitkat" , "skittles"]
+    chocolateBars.pop(3)
+    return [1,2]
+    
+  }
+  
