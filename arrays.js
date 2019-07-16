@@ -39,6 +39,6 @@ function removeElementFromBeginningOfArray(array) {
   
   function destructivelyRemoveElementFromEndOfArray(array) {
     var chocolateBars = ["snickers", "hundred grand", "kitkat" , "skittles"]
-    chocolateBars.pop 
+    chocolateBars.pop(4)
   }
   
